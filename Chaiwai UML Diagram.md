@@ -24,7 +24,7 @@
 11. Composite Structure Diagram : Dhriti Deep
 12. Collaboration Diagram : Mainak Chakraborty  -- ?
 13. Communication Diagram : Vikas Gupta
-
+14. Sequence Diagram : Pratul Gupta
 
 
 
