@@ -2,7 +2,7 @@
 
 1. Use Case Diagram  : Richa Mishra
 
-![[Use_case_Diagram.jpeg]]
+![][Use_case_Diagram.jpeg]
 
 
 2. Sequence Diagram : Anirudhh Nagar
