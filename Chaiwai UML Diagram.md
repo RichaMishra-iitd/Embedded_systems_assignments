@@ -19,13 +19,15 @@
 5. Activity Diagram : Kartik Varshney
 6. Activity Diagram : Rishabh Jain
 7. Class Diagram  : Abhinash Kumar
-8. State machine Diagram : Ashish Sharma
-9. Deployment Diagram : J Balakrishna Reddy
-10. Component Diagram :  Sed Kasim
-11. Composite Structure Diagram : Dhriti Deep
-12. Collaboration Diagram : Mainak Chakraborty  -- ?
-13. Communication Diagram : Vikas Gupta
-14. Sequence Diagram : Pratul Gupta
+8. **class diagram**
+9. ![](https://github.com/TheoreticalPhy/embedded-sytem/blob/main/class%20diagram.jpg)
+10. State machine Diagram : Ashish Sharma
+11. Deployment Diagram : J Balakrishna Reddy
+12. Component Diagram :  Sed Kasim
+13. Composite Structure Diagram : Dhriti Deep
+14. Collaboration Diagram : Mainak Chakraborty  -- ?
+15. Communication Diagram : Vikas Gupta
+16. Sequence Diagram : Pratul Gupta
 
 
 
