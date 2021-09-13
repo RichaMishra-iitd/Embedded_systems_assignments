@@ -14,7 +14,7 @@
 3. Sequence Diagram : Mainak Chakraborty
 4. Sequence Diagram : Deepak verma
 **Sequence Diagram**
-![](https://github.com/Deepak42074/Embedded_systems_assignments/blob/main/Diagrams/Sequence_Diagram.png)
+![](https://github.com/Deepak42074/Embedded_systems_assignments/blob/main/Diagrams/Sequence_Diagram1.png)
 
 5. Activity Diagram : Kartik Varshney
 6. Activity Diagram : Rishabh Jain
