@@ -11,8 +11,9 @@
 
 
 
-3. Sequence Diagram : Mainak Chakraborty
-4. Sequence Diagram : Deepak verma
+3. Package Diagram : Mainak Chakraborty
+![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/package_diagram.PNG)
+5. Sequence Diagram : Deepak verma
 **Sequence Diagram**
 ![](https://github.com/Deepak42074/Embedded_systems_assignments/blob/main/Diagrams/Sequence_diagram.png)
 
