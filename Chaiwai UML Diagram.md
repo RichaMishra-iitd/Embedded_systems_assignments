@@ -22,17 +22,22 @@
 7. Class Diagram  : Abhinash Kumar
  **class diagram**
 ![](https://github.com/TheoreticalPhy/embedded-sytem/blob/main/class%20diagram.jpg)
-8. State machine Diagram : Ashish Sharma
-![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/StateDiagram.png)
-9. Deployment Diagram : J Balakrishna Reddy
 
-10. Component Diagram :  Syed Kasim
+8.Object Diagram : Anand
+**object diagram**
+![](https://github.com/Deepak42074/Embedded_systems_assignments/blob/main/Diagrams/chaiwai-objdiagram.png)
+
+9. State machine Diagram : Ashish Sharma
+![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/StateDiagram.png)
+10. Deployment Diagram : J Balakrishna Reddy
+
+11. Component Diagram :  Syed Kasim
 
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/Syed_Kasim_component_diagram.JPG)
-11. Composite Structure Diagram : Dhriti Deep
-12. Collaboration Diagram : Mainak Chakraborty  -- ?
-13. Communication Diagram : Vikas Gupta
-14. Sequence Diagram : Pratul Gupta
+12. Composite Structure Diagram : Dhriti Deep
+13. Collaboration Diagram : Mainak Chakraborty  -- ?
+14. Communication Diagram : Vikas Gupta
+15. Sequence Diagram : Pratul Gupta
 
 
 
