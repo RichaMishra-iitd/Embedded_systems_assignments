@@ -19,8 +19,8 @@
 7. Use Case Diagram  : **Richa Mishra**
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/Use%20Case%20Diagram_Richa_Mishra_EEY217519.jpg)
 
-8. Class Diagram  : **Abhinash Kumar**
-![](https://github.com/TheoreticalPhy/embedded-sytem/blob/main/class%20diagram.jpg)
+8. Class Diagram  : **Abinash Kumar**
+![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/class_diagram.png)
 
 9.Object Diagram : **Anand**
 **object diagram**
