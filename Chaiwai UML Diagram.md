@@ -23,7 +23,7 @@
  **class diagram**
 ![](https://github.com/TheoreticalPhy/embedded-sytem/blob/main/class%20diagram.jpg)
 8. State machine Diagram : Ashish Sharma
-![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/ChaiWai_State_Diagram_Ashish_Sharma_2020IDZ8685.png)
+![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/StateDiagram.png)
 9. Deployment Diagram : J Balakrishna Reddy
 
 10. Component Diagram :  Syed Kasim
