@@ -15,7 +15,7 @@
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/package_diagram.PNG)
 5. Timing Diagram : Deepak verma
 
-![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/tree/main/Diagrams/Timing_diagram.png)
+![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/Timing_diagram.png)
 
 5. Activity Diagram : Kartik Varshney
 6. Activity Diagram : Rishabh Jain
