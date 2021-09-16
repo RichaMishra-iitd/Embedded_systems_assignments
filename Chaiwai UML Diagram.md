@@ -7,11 +7,13 @@
 2. Timing Diagram : Deepak verma
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/Timing_diagram.png)
 
-3. State machine Diagram : Ashish Sharma / Dhriti Deep
+3. State machine Diagram : Dhriti Deep
+4. State Machine Diagram : Ashish Sharma
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/StateDiagram.png)
 
-4. Activity Diagram : Kartik Varshney
-5. Activity Diagram : Rishabh Jain
+4. Activity Diagram : Rishabh Jain
+5. Activity Diagram : Kartik Varshney
+![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/WhatsApp%20Image%202021-09-16%20at%2014.09.16.jpeg)
 
 6. Use Case Diagram  : Richa Mishra
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/Use%20Case%20Diagram_Richa_Mishra_EEY217519.jpg)
@@ -31,7 +33,7 @@
 
 11. Component Diagram :  Syed Kasim
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/Syed_Kasim_component_diagram.JPG)
-12. Composite Structure Diagram : Dhriti Deep
+
 13. Communication Diagram : Vikas Gupta
 14. Sequence Diagram : Pratul Gupta
 
