@@ -2,7 +2,7 @@
 
 1. Use Case Diagram  : Richa Mishra
 
-![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/Use%20Case%20Diagram%20For%20Chaiwai_Richa_mishra_2021eey7519.jpg)
+![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/Use%20Case%20Diagram_Richa_Mishra_EEY217519.jpg)
 
 
 2. Sequence Diagram : Anirudhh Nagar
