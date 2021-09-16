@@ -26,13 +26,14 @@
 
 9.  Package Diagram : Mainak Chakraborty
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/package_diagram.PNG)
+
 10. Deployment Diagram : J Balakrishna Reddy
 
 11. Component Diagram :  Syed Kasim
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/Syed_Kasim_component_diagram.JPG)
 12. Composite Structure Diagram : Dhriti Deep
-14. Communication Diagram : Vikas Gupta
-15. Sequence Diagram : Pratul Gupta
+13. Communication Diagram : Vikas Gupta
+14. Sequence Diagram : Pratul Gupta
 
 
 
