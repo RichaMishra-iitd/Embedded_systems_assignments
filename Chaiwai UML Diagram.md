@@ -1,41 +1,38 @@
 # UML Diagrams For Tea Ordering And Delivery System
 
-1. Sequence Diagram : Anirudhh Nagar
+1. Sequence Diagram : **Anirudhh Nagar**
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/Chai_Wai_Sequence_diagram_Aniruddh_Nagar.png)
 
 
-2. Timing Diagram : Deepak verma
+2. Timing Diagram : **Deepak verma**
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/Timing_diagram.png)
 
-3. State machine Diagram : Dhriti Deep
-4. State Machine Diagram : Ashish Sharma
+3. State machine Diagram : **Dhriti Deep**
+4. State Machine Diagram : **Ashish Sharma**
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/StateDiagram.png)
 
-4. Activity Diagram : Rishabh Jain
-5. Activity Diagram : Kartik Varshney
+4. Activity Diagram : **Rishabh Jain**
+5. Activity Diagram : **Kshitij Kumar**
+6. Activity Diagram : **Kartik Varshney**
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/WhatsApp%20Image%202021-09-16%20at%2014.09.16.jpeg)
 
-6. Use Case Diagram  : Richa Mishra
+7. Use Case Diagram  : **Richa Mishra**
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/Use%20Case%20Diagram_Richa_Mishra_EEY217519.jpg)
 
-7. Class Diagram  : Abhinash Kumar
- **class diagram**
+8. Class Diagram  : **Abhinash Kumar**
 ![](https://github.com/TheoreticalPhy/embedded-sytem/blob/main/class%20diagram.jpg)
 
-8.Object Diagram : Anand
+9.Object Diagram : **Anand**
 **object diagram**
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/chaiwai-objdiagram.png)
 
-9.  Package Diagram : Mainak Chakraborty
+10.  Package Diagram : **Mainak Chakraborty**
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/package_diagram.PNG)
 
-10. Deployment Diagram : J Balakrishna Reddy
+11. Deployment Diagram : **J Balakrishna Reddy**
 
-11. Component Diagram :  Syed Kasim
+12. Component Diagram :  **Syed Kasim**
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/Syed_Kasim_component_diagram.JPG)
 
-13. Communication Diagram : Vikas Gupta
-14. Sequence Diagram : Pratul Gupta
-
-
-
+13. Communication Diagram : **Vikas Gupta**
+14. Sequence Diagram : **Pratul Gupta**
