@@ -22,6 +22,7 @@
 8. Class Diagram  : **Abinash Kumar**
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/class_diagram.png)
 
+10. Object Diagam : **Prashant Kumar**
 9.Object Diagram : **Anand**
 **object diagram**
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/chaiwai-objdiagram.png)
