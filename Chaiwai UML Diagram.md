@@ -7,7 +7,7 @@
 2. Timing Diagram : Deepak verma
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/Timing_diagram.png)
 
-3. State machine Diagram : Ashish Sharma
+3. State machine Diagram : Ashish Sharma / Dhriti Deep
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/StateDiagram.png)
 
 4. Activity Diagram : Kartik Varshney
