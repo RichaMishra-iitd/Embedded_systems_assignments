@@ -28,7 +28,7 @@
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/chaiwai-objdiagram.png)
 
 10.  Package Diagram : **Mainak Chakraborty**
-![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/package_diagram.PNG)
+![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/package_Diagram1.png)
 
 11. Deployment Diagram : **J Balakrishna Reddy**
 
