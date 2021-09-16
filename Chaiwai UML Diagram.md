@@ -25,7 +25,7 @@
 
 8.Object Diagram : Anand
 **object diagram**
-![](https://github.com/Deepak42074/Embedded_systems_assignments/blob/main/Diagrams/chaiwai-objdiagram.png)
+![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/chaiwai-objdiagram.png)
 
 9. State machine Diagram : Ashish Sharma
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/StateDiagram.png)
@@ -35,7 +35,7 @@
 
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/Syed_Kasim_component_diagram.JPG)
 12. Composite Structure Diagram : Dhriti Deep
-13. Collaboration Diagram : Mainak Chakraborty  -- ?
+13. Collaboration Diagram : Mainak Chakraborty
 14. Communication Diagram : Vikas Gupta
 15. Sequence Diagram : Pratul Gupta
 
