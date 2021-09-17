@@ -23,7 +23,6 @@
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/class_diagram.png)
 
 9.Object Diagram : **Anand & Prashant**
-**object diagram**
 ![](https://github.com/RichaMishra-iitd/Embedded_systems_assignments/blob/main/Diagrams/chaiwai-objdiagram.png)
 
 10.  Package Diagram : **Mainak Chakraborty**
